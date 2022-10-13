@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Silahkan rubah disini</Text>
       <StatusBar style="auto" />
-    </View>
+    </View>//Tester 1
   );
 }
 
